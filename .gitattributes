@@ -1,6 +1,4 @@
-train_augmented_common_neighbors.txt filter=lfs diff=lfs merge=lfs -text
-train_augmented_katz.txt filter=lfs diff=lfs merge=lfs -text
-train_augmented_common_katz.txt filter=lfs diff=lfs merge=lfs -text
-train_augmented_common_n.txt filter=lfs diff=lfs merge=lfs -text
-train_augmented_louvain.txt filter=lfs diff=lfs merge=lfs -text
+version https://git-lfs.github.com/spec/v1
+oid sha256:564a472756c80a536c22db68d78abc96e99ac02575420e51438f0f37a0f50a9f
+size 382
 *.txt filter=lfs diff=lfs merge=lfs -text
