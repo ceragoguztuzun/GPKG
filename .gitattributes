@@ -1,3 +1,4 @@
 train_augmented_common_neighbors.txt filter=lfs diff=lfs merge=lfs -text
 train_augmented_katz.txt filter=lfs diff=lfs merge=lfs -text
+train_augmented_common_katz.txt filter=lfs diff=lfs merge=lfs -text
 *.txt filter=lfs diff=lfs merge=lfs -text
