@@ -7,3 +7,4 @@ train_augmented_louvain.txt filter=lfs diff=lfs merge=lfs -text
 train_augmented_common_n.txt filter=lfs diff=lfs merge=lfs -text
 train_augmented_LOUVAIN.txt filter=lfs diff=lfs merge=lfs -text
 train_augmented_spectral_clustering.txt filter=lfs diff=lfs merge=lfs -text
+trial_inf.txt filter=lfs diff=lfs merge=lfs -text
