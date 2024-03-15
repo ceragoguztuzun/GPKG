@@ -11,3 +11,4 @@ trial_inf.txt filter=lfs diff=lfs merge=lfs -text
 train_inf.txt filter=lfs diff=lfs merge=lfs -text
 train_augmented_common_kcore.txt filter=lfs diff=lfs merge=lfs -text
 infer_nonaug.txt filter=lfs diff=lfs merge=lfs -text
+train_augmented_propagation.txt filter=lfs diff=lfs merge=lfs -text
