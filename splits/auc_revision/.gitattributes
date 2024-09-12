@@ -1,0 +1,6 @@
+commonn_train_set/*.txt filter=lfs diff=lfs merge=lfs -text
+katz_train_set/*.txt filter=lfs diff=lfs merge=lfs -text
+kcore_train_set/*.txt filter=lfs diff=lfs merge=lfs -text
+louvain_train_set/*.txt filter=lfs diff=lfs merge=lfs -text
+nonaug_train_set/*.txt filter=lfs diff=lfs merge=lfs -text
+propagation_train_set/*.txt filter=lfs diff=lfs merge=lfs -text
